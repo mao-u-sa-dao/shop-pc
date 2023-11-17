@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Website_Laptop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Website_Laptop.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\font\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\font\\ElegantIcons.eot"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\font\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\font\\ElegantIcons.svg"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\font\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\font\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\font\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\font\\ElegantIcons.woff"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\font\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\font\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\font\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\font\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\font\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\font\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\font\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_TotNghiep\\Project\\Project_Web_MVC_WebApi\\Website_Laptop\\Website_Laptop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Website_Laptop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Website_Laptop.props",
+      "PackagePath": "build\\Website_Laptop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Website_Laptop.props",
+      "PackagePath": "buildMultiTargeting\\Website_Laptop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Website_Laptop.props",
+      "PackagePath": "buildTransitive\\Website_Laptop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
